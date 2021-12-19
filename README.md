@@ -8,6 +8,13 @@
 
 [Open link](https://google.com)
 
+```javascript
+function test() {
+ console.log("Christmas mode");
+}
+```
+
+
 Development plans:
-- [x] new leyout
-- [ ] bnkndjknc
+- [x] christmas mode
+- [ ] new years eve mode
