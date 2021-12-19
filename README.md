@@ -10,4 +10,4 @@
 
 Development plans:
 - [x] new leyout
-- [] bnkndjknc
+- [ ] bnkndjknc
