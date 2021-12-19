@@ -7,3 +7,7 @@
 - christmas mode
 
 [Open link](https://google.com)
+
+Development plans:
+- [x] new leyout
+- [] bnkndjknc
