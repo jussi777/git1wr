@@ -11,3 +11,16 @@ p {
 div {
     border: 3px solid black;
 }
+
+ul {
+    list-style: none;
+}
+
+li {
+    line-height: 30px;
+}
+
+li:nth-child(odd) {
+    color: red;
+    border: 2px dashed black;
+}
