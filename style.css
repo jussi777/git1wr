@@ -1,10 +1,10 @@
 p {
-    color: blue;
+    color: green;
     border: 2px solid red;
 }
 
 .header {
-    color: blue;
+    color: greenyellow;
     background-color: grey;
 }
 
@@ -21,6 +21,6 @@ li {
 }
 
 li:nth-child(odd) {
-    color: red;
+    color: rgb(25, 80, 25);
     border: 2px dashed black;
 }
